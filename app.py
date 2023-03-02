@@ -1,3 +1,6 @@
+# https://render.com/docs/deploy-flask
+# https://github.com/render-examples/flask-hello-world
+# https://testdriven.io/blog/flask-render-deployment/
 
 #######################
 #
